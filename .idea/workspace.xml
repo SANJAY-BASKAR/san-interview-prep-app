@@ -5,16 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c932c580-3cc0-498b-864f-f70eb23e5a21" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Firebase/admin.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Firebase/client.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/DisplayTechIcons.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/InterviewCard.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/actions/auth.action.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/(root)/interview/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/api/vapi/generate/route.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Agent.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/vapi.sdk.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/(root)/Layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(root)/layout.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/(root)/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(root)/page.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/constants/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/constants/index.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/utils.ts" beforeDir="false" afterPath="$PROJECT_DIR$/lib/utils.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/(auth)/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(auth)/layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/(root)/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(root)/layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Authform.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Authform.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/actions/auth.action.ts" beforeDir="false" afterPath="$PROJECT_DIR$/lib/actions/auth.action.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
@@ -54,6 +53,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\REACT\int-prep-website\app\api\vapi" />
       <recent name="D:\REACT\int-prep-website\app\(root)" />
       <recent name="D:\REACT\int-prep-website\app" />
     </key>
@@ -76,7 +76,11 @@
       <workItem from="1751968231255" duration="13774000" />
       <workItem from="1752033926093" duration="7657000" />
       <workItem from="1752128884597" duration="1969000" />
-      <workItem from="1752162864670" duration="2177000" />
+      <workItem from="1752162864670" duration="7819000" />
+      <workItem from="1752216718199" duration="3804000" />
+      <workItem from="1752229162811" duration="2919000" />
+      <workItem from="1752250172794" duration="3604000" />
+      <workItem from="1752320340309" duration="5177000" />
     </task>
     <servers />
   </component>
